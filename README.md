@@ -1,4 +1,4 @@
-# comp3040a3
+# Daily Dose of Covid
 
 ## Description
 
