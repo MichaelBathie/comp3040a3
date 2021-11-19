@@ -8,7 +8,7 @@
 - GET/total
 
 ## Sample Requests
-- https://dailydoseofcovid.ca/daily/json?date=2021-08-01&enddate=2021-08-30&location=winnipeg
+- https://dailydoseofcovid.ca/daily?date=2021-08-01&enddate=2021-08-30&location=winnipeg
 
 ## Resources
 
