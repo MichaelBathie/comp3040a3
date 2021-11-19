@@ -7,6 +7,9 @@
 - GET/daily
 - GET/total
 
+## Sample Requests
+- https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400
+
 ## Resources
 
 ## Sample Requests
