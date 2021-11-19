@@ -8,7 +8,7 @@
 - GET/total
 
 ## Sample Requests
-- https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400
+- https://dailydoseofcovid.ca/daily/json?date=2021-08-01&enddate=2021-08-30&location=winnipeg
 
 ## Resources
 
