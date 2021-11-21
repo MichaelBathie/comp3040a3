@@ -84,3 +84,9 @@ Response:
     "status":"INVALID_DATE"
 }
 ```
+
+## Status codes
+- "OK": No errors occurred.
+- "INVALID_LOCATION": The location parameter is missing or invalid.
+- "INVALID_DATE": The date parameter is missing or invalid.
+- "ERROR": Some other unknown error occured, likely a server error.
