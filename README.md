@@ -26,7 +26,7 @@ Response:
 ```
 {
     "location":"Winnipeg",
-    "start_date":"2021-08-01",
+    "date":"2021-08-01",
     "end_date":"2021-08-30",
     "results":
     {
@@ -78,7 +78,7 @@ Response:
 ```
 {
     "location":"Manitoba",
-    "start_date":"2021-08-01",
+    "date":"2021-08-01",
     "end_date":"2023-01-01",
     "results": {}
     "status":"INVALID_DATE"
